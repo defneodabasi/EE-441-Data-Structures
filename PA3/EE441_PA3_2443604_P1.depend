@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1705232173 source:c:\users\defne\desktop\2023-2024fallsemester\datastructures\assignments\pa3\ee441_pa3_2443604_p1\ee441_pa3_2443604_p1\main.cpp
+	"adhoc.cpp"
+
+1705191547 c:\users\defne\desktop\2023-2024fallsemester\datastructures\assignments\pa3\ee441_pa3_2443604_p1\ee441_pa3_2443604_p1\adhoc.cpp
+	"adhoc.h"
+	"queue.cpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1705190406 c:\users\defne\desktop\2023-2024fallsemester\datastructures\assignments\pa3\ee441_pa3_2443604_p1\ee441_pa3_2443604_p1\adhoc.h
+	<string>
+	<vector>
+
+1705180622 c:\users\defne\desktop\2023-2024fallsemester\datastructures\assignments\pa3\ee441_pa3_2443604_p1\ee441_pa3_2443604_p1\queue.cpp
+	"queue.h"
+	<iostream>
+
+1705173657 c:\users\defne\desktop\2023-2024fallsemester\datastructures\assignments\pa3\ee441_pa3_2443604_p1\ee441_pa3_2443604_p1\queue.h
+
